@@ -67,4 +67,5 @@ Conclusion
 This EDA project shows how exploratory analysis can uncover meaningful patterns in streaming platform data. The insights gained from this analysis highlight the importance of balancing content quality, genre diversity, and audience preferences. These findings can help Amazon Prime make informed decisions to improve user engagement and support long-term platform growth.
 
 Author
+
 Chinnapa Reddy Palakollu
